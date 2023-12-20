@@ -1,0 +1,11 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºé¡‹ÿÿÿÿÿ
+k	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜĞ›îûÿÿÿÿ
+A
+java:S1452,"&Remove usage of generic wildcard type.(”Òª«üÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èŞ¤ƒûÿÿÿÿ
+A
+java:S1452"&Remove usage of generic wildcard type.(èŞ¤ƒûÿÿÿÿ
+7
+java:S1116R"Remove this empty statement.(Åñ­õşÿÿÿÿ
+k	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒªÀşÿÿÿÿ
